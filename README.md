@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shwtha03
-- 👀 I’m interested in learning new things and broaden my horizons
+- 👀 I’m interested in learning new things and broadening my horizons.
 - 🌱 I’m currently learning Selenium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my email- shwtha03@gmail.com
